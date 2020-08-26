@@ -1,6 +1,6 @@
 This is a RELATIONAL DATABASE i.e. MySQL project using PHP as backend including HTML , CSS , JS(JavaScript) , Bootstrap as front-end.
 
-This project is made by Mahodar Majgaonkar in AutoDice Training and Internship of Database Management using PHP 
+This project is made by Mahodar Majgaonkar in AutoDice Training and Internship of Database Management using PHP |
 Training - 15 hours  |  Internship - 20 hours  |  From 15/7/2020 to 15/8/2020
 
 Exam Score Management Project : Includes
